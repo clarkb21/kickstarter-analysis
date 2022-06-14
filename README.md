@@ -24,6 +24,11 @@
   - Again, I used a line chart to show the changes in successful and failed campaigns as the goal amount increased. 
   - To determine the number for each goal, I used the "countifs" formula in Excel, and set criteria to filter out only the play campgains in each interval. 
  ![Count ifs Formula ](https://user-images.githubusercontent.com/104038813/173471947-93130848-bb35-4e9a-98e4-3662034c8644.png)
+ 
+ 3) Challenges during Project
+  - For the first part of the challenge, Theater Outcomes by Launch Date, I struggled at first creating the Pivot table to show the Rows as months instead of years. I knew I wanted to know the outcomes by month; "outcomes" was put correctly in the Columns section, and "Count of Outcomes" was successfully placed in the values section. Once I filterd the months to show in the Pivot table, the data was showing me exaclty what I wanted to know. 
+ ![Pivot Table- Outcomes by Launch Date](https://user-images.githubusercontent.com/104038813/173472405-2d8161cb-0054-401e-8f40-555a4bf26934.png)
+
 
 
 
