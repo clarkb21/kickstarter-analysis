@@ -31,8 +31,12 @@
   - For the first part of the challenge, Theater Outcomes by Launch Date, I struggled at first creating the Pivot table to show the Rows as months instead of years. I knew I wanted to know the outcomes by month; "outcomes" was put correctly in the Columns section, and "Count of Outcomes" was successfully placed in the values section. Once I filterd the months to show in the Pivot table, the data was showing me exaclty what I wanted to know. 
   
  ![Pivot Table- Outcomes by Launch Date](https://user-images.githubusercontent.com/104038813/173472405-2d8161cb-0054-401e-8f40-555a4bf26934.png)
-
-
+ 
+ - For the second part of the challenge, Outcomes Based on Goal, I struggled at first with setting up the "countifs" formula to properly display what I was wanting to show. I realized I wanted to filter out just successful play campaigns with a goal less than $1000, and I finally set it up where I locked the cell numbers from the existing Kickstarter workbook so that I could copy the formula over to the failed and canceled columns without having to change much of the information. 
+ 
+ ![Count ifs Formula- 2](https://user-images.githubusercontent.com/104038813/173472903-934d9f53-2b79-40ae-827c-762d08365d3e.png)
+ 
+ - I was also confused for a moment that the canceled column was all zeros. I went back to the original document to double check that there were in fact no canceled play campaigns for any of the goal amounts. 
 
 
 ### Analysis of Outcomes Based on Launch Date
