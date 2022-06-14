@@ -1,6 +1,9 @@
-# Kickstarting with Excel
+# Kickstarter Analysis 
 
 ## Overview of Project
+- Analyze large amounts of data from a kickstarter campaign data set
+- Use visualizations to help show results and trends in the data 
+- Find patterns in the data to assist Louise in being as successful as possible with her business ideas
 
 ### Purpose
 
