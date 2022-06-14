@@ -16,6 +16,7 @@
   - I created a Pivot table and set up the filters to allow me to only see the months a campaign was launched and whether or not it was successful. 
   - I filtered the table to only see theater campaigns
   - A line chart would work best to show the outcomes over a year. 
+  
 ![Theater Outcomes Pivot Table- Screenshot](https://user-images.githubusercontent.com/104038813/173471104-324db2ff-4547-4ad6-831d-f8a470fdeddc.png)
 
 2) Outcomes Based on Goals
@@ -23,10 +24,12 @@
   - I set up columns to show the number of successful, failed, and canceled campaigns based on their goal amount. Then I found the percentage of each interval that was successful to see any trends in the data. 
   - Again, I used a line chart to show the changes in successful and failed campaigns as the goal amount increased. 
   - To determine the number for each goal, I used the "countifs" formula in Excel, and set criteria to filter out only the play campgains in each interval. 
+  
  ![Count ifs Formula ](https://user-images.githubusercontent.com/104038813/173471947-93130848-bb35-4e9a-98e4-3662034c8644.png)
  
  3) Challenges during Project
   - For the first part of the challenge, Theater Outcomes by Launch Date, I struggled at first creating the Pivot table to show the Rows as months instead of years. I knew I wanted to know the outcomes by month; "outcomes" was put correctly in the Columns section, and "Count of Outcomes" was successfully placed in the values section. Once I filterd the months to show in the Pivot table, the data was showing me exaclty what I wanted to know. 
+  
  ![Pivot Table- Outcomes by Launch Date](https://user-images.githubusercontent.com/104038813/173472405-2d8161cb-0054-401e-8f40-555a4bf26934.png)
 
 
