@@ -59,3 +59,5 @@
     - Similarly, launch date shows trends where other factors can play heavily as well, but are not represented in the data or able to filter out. 
 
 - What are some other possible tables and/or graphs that we could create?
+    - To help improve the analysis for "Theater Outcomes Based on Launch Date", a new line chart could be created to show the outcomes over several years instead of just looking at months to see if there are trends from one year to the next. 
+    - The goal intervals could be changed to see more patterns in how the Outcomes changed based on goal. If the intervals are smaller, there may be different trends in how successful campaigns were. 
