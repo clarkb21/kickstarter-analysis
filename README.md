@@ -55,5 +55,7 @@
       - Large goals over $45,000 were rarely successful
 
 - What are some limitations of this dataset?
+    - When looking at outcomes based on goals, there are several other factors that contribute to the success of a campgain that are not taken into account with this data. 
+    - Similarly, launch date shows trends where other factors can play heavily as well, but are not represented in the data or able to filter out. 
 
 - What are some other possible tables and/or graphs that we could create?
