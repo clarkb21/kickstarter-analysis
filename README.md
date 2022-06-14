@@ -42,10 +42,10 @@
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-    1) Based on the data, launching a theater campaign during the month of May is more likey to be successful compared to any other month. 
+   1. Based on the data, launching a theater campaign during the month of May is more likey to be successful compared to any other month. 
       - May had 111 successful outcomes compared to just 52 failed outcomes
-     - The failed outcomes were very consistent throughout the year. 
-    2) Launching a theater campaign in December is not advised.
+      - The failed outcomes were very consistent throughout the year. 
+   2. Launching a theater campaign in December is not advised.
        - December saw only 37 successful campaigns compared to 35 failed. 
        - This is the only month where the successful and failed campaigns are virtually even. 
 
