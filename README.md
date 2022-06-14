@@ -50,6 +50,9 @@
        - This is the only month where the successful and failed campaigns are virtually even. 
 
 - What can you conclude about the Outcomes based on Goals?
+  1. Setting a campaign goal between $25,000-$29,999 or $45,000-$49,999 results in a much higher percentage of failed campaigns. 
+      - Smaller goals less than $5000 or goals near $40,000 were successul much more often than they failed. 
+      - Large goals over $45,000 were rarely successful
 
 - What are some limitations of this dataset?
 
