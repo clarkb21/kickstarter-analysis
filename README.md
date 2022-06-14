@@ -12,7 +12,7 @@
 - Utilize pivot tables, Excel commands, and various types of charts for visualization purposes
 
 ## Analysis and Challenges
-**1) Outcomes Based on Launch Date **
+**1) Outcomes Based on Launch Date**
   - I created a Pivot table and set up the filters to allow me to only see the months a campaign was launched and whether or not it was successful. 
   - I filtered the table to only see theater campaigns
   - A line chart would work best to show the outcomes over a year. 
